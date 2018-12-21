@@ -1,0 +1,66 @@
+baseURL = "http://fuhrmannb.me/"
+languageCode = "en-us"
+theme = "hyde-hyde"
+
+[params]
+    author = "Benjamin FÜHRMANN"
+    authorimage = "/img/fuhrmannb.jpg"
+
+    copyright = "fuhrmannb"
+    license = "CC BY-SA 4.0"
+    licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"
+    showBuiltWith = true
+
+[languages]
+    [languages.en]
+        title = "What a code!"
+        [languages.en.params]
+            description = "Jumble and other fun stuff I want to share"
+        [[languages.en.menu.main]]
+            name = "About"
+            identifier = "about"
+            weight = 100
+            url = "/about/"
+        [[languages.en.menu.main]]
+            name = "Blog"
+            weight = 200
+            identifier = "blog"
+            url = "/blog/"
+        [[languages.en.menu.main]]
+            name = "Resume"
+            identifier = "resume"
+            weight = 300
+            url = "/resume/"
+
+    [languages.fr]
+        title = "Quel code!"
+        [languages.fr.params]
+            description = "Bric-à-brac et autres trucs cools que j'ai envie de partager"
+        [[languages.fr.menu.main]]
+            name = "À propos"
+            identifier = "about"
+            weight = 100
+            url = "/about/"
+        [[languages.fr.menu.main]]
+            name = "Blog"
+            weight = 200
+            identifier = "blog"
+            url = "/blog/"
+        [[languages.fr.menu.main]]
+            name = "CV"
+            identifier = "resume"
+            weight = 300
+            url = "/resume/"
+ 
+[params.social]
+    github = "fuhrmannb"
+    linkedin = "benjamin-führmann-54174862"
+    twitter = "fuhrmann_b"
+    stackoverflow = "3601426"
+    email = "benjamin.fuhrmann@gmail.com"
+
+[params.resume.skills.tooltip]
+    1 = "Some notion"
+    2 = "Already used in a side project"
+    3 = "Well-known, used in a main project"
+    4 = "Mastered, used in multiple projects"
