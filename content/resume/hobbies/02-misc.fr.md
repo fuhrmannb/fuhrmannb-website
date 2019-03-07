@@ -1,7 +1,7 @@
 ---
 type: hobby
-title: Miscellaneous
+title: Divers
 icon: /resume/hobbies/misc.svg
 ---
 * Dance Dance Revolution
-* Photography
+* Photographie

@@ -4,5 +4,5 @@ title: Sports
 icon: /resume/hobbies/sport.svg
 ---
 * Badminton
-* Cycling
-* Swimming
+* Vélo
+* Natation

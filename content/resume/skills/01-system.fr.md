@@ -1,6 +1,6 @@
 ---
 type: skills
-title: System
+title: Système et Cloud
 skills:
 - name: Linux
   score: 4
@@ -16,6 +16,11 @@ skills:
   score: 3
 - name: Puppet
   score: 3
+- name: Services système
+  score: 3
+  details: DNS, DHCP, TFTP, LDAP
 - name: Ansible
+  score: 2
+- name: Bash
   score: 2
 ---

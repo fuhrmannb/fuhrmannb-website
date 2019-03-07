@@ -10,11 +10,16 @@ skills:
   details: Android
 - name: Go
   score: 3
-  details: gRPC
+  details: Protobuf, gRPC
 - name: Python
+  score: 2
+- name: C#
   score: 2
 - name: HTML/CSS
   score: 2
+- name: 3D Engines
+  score: 2
+  details: Unity, Unreal
 - name: Javascript
   score: 1
 - name: Ruby

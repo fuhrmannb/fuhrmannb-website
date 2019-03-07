@@ -1,6 +1,7 @@
 baseURL = "http://fuhrmannb.me/"
 languageCode = "en-us"
 theme = "hyde-hyde"
+DefaultContentLanguage = "en"
 
 [params]
     author = "Benjamin FÜHRMANN"
@@ -51,16 +52,11 @@ theme = "hyde-hyde"
             identifier = "resume"
             weight = 300
             url = "/resume/"
- 
+
+
 [params.social]
     github = "fuhrmannb"
     linkedin = "benjamin-führmann-54174862"
     twitter = "fuhrmann_b"
     stackoverflow = "3601426"
     email = "benjamin.fuhrmann@gmail.com"
-
-[params.resume.skills.tooltip]
-    1 = "Some notion"
-    2 = "Already used in a side project"
-    3 = "Well-known, used in a main project"
-    4 = "Mastered, used in multiple projects"

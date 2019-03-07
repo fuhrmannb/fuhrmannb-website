@@ -1,9 +1,9 @@
 ---
 type: education
-title: Preparatory classes for the « Grandes Écoles »
+title: Classe préparatoire aux grandes écoles
 school: Lycée Fabert, Metz
 dateStart: 2009
 dateEnd: 2011
 icon: /resume/education/fabert.png
 ---
-Specialized in mathematics and physics
+Filière Mathématique-Physique

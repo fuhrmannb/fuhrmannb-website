@@ -1,10 +1,10 @@
 ---
 type: education
-title: Computer Engineering School - Master's Degree
+title: École d’ingénieur en informatique
 school: TELECOM Nancy
 location: Nancy
 dateStart: 2011
 dateEnd: 2014
 icon: /resume/education/tncy.svg
 ---
-Speciality in network, system and services
+Spécialité réseaux, systèmes et services
