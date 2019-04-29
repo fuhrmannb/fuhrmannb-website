@@ -62,3 +62,7 @@ baseURL = "https://fuhrmannb.me"
     twitter = "fuhrmann_b"
     stackoverflow = "3601426"
     email = "benjamin.fuhrmann@gmail.com"
+
+UtterancesRepo = "fuhrmannb/fuhrmannb-utterances"
+UtterancesIssueTerm = "pathname"
+UtterancesTheme = "github-light"
