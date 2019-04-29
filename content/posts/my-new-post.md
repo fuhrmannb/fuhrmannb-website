@@ -1,6 +1,7 @@
 ---
 title: "Start post"
 date: 2018-12-14T19:14:38+01:00
+description: "A small post to test my blog :)"
 ---
 
 # Coucou

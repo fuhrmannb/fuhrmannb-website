@@ -1,7 +1,8 @@
 languageCode = "en-us"
 theme = "hyde-hyde"
-DefaultContentLanguage = "en"
+defaultContentLanguage = "en"
 baseURL = "https://fuhrmannb.me/"
+enableRobotsTXT = true
 
 [params]
     author = "Benjamin FÜHRMANN"
@@ -30,7 +31,7 @@ baseURL = "https://fuhrmannb.me/"
             name = "Blog"
             weight = 200
             identifier = "blog"
-            url = "/blog/"
+            url = "/posts/"
         [[languages.en.menu.main]]
             name = "Resume"
             identifier = "resume"
@@ -51,7 +52,7 @@ baseURL = "https://fuhrmannb.me/"
             name = "Blog"
             weight = 200
             identifier = "blog"
-            url = "/blog/"
+            url = "/posts/"
         [[languages.fr.menu.main]]
             name = "CV"
             identifier = "resume"

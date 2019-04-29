@@ -1,1 +1,1 @@
-It's me, Mario! :)
+Any issue with the website? Fill an issue on the [GitHub repository](https://github.com/fuhrmannb/fuhrmannb-website).
