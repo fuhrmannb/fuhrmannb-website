@@ -1,7 +1,7 @@
-baseURL = "http://fuhrmannb.me"
 languageCode = "en-us"
 theme = "hyde-hyde"
 DefaultContentLanguage = "en"
+baseURL = "https://fuhrmannb.me"
 
 [params]
     author = "Benjamin FÜHRMANN"
@@ -14,7 +14,6 @@ DefaultContentLanguage = "en"
 
 [languages]
     [languages.en]
-        baseURL = "http://fuhrmannb.me"
         languageName = "English"
         title = "What a code!"
         [languages.en.params]
@@ -36,7 +35,6 @@ DefaultContentLanguage = "en"
             url = "/resume/"
 
     [languages.fr]
-        baseURL = "http://fr.fuhrmannb.me"
         languageName = "Français"
         title = "Quel code!"
         [languages.fr.params]
