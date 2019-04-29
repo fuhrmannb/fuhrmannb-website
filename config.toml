@@ -11,6 +11,9 @@ baseURL = "https://fuhrmannb.me"
     license = "CC BY-SA 4.0"
     licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"
     showBuiltWith = true
+    UtterancesRepo = "fuhrmannb/fuhrmannb-utterances"
+    UtterancesIssueTerm = "pathname"
+    UtterancesTheme = "github-light"
 
 [languages]
     [languages.en]
@@ -62,7 +65,3 @@ baseURL = "https://fuhrmannb.me"
     twitter = "fuhrmann_b"
     stackoverflow = "3601426"
     email = "benjamin.fuhrmann@gmail.com"
-
-UtterancesRepo = "fuhrmannb/fuhrmannb-utterances"
-UtterancesIssueTerm = "pathname"
-UtterancesTheme = "github-light"
