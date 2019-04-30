@@ -2,9 +2,11 @@
 title: "Start post"
 date: 2018-12-14T19:14:38+01:00
 description: "A small post to test my blog :)"
+categories: ["development", "speedrun"]
+tags: ["csharp", "speedrun", "livesplit"]
 ---
 
-# Coucou
+# Hey
 
 Occaecat anim consectetur consectetur voluptate officia. Ad dolor elit anim fugiat eiusmod officia dolor tempor consequat incididunt pariatur esse. Enim nulla mollit consectetur ex ea aliqua quis cillum mollit aliquip cillum deserunt velit et. Elit anim aute sunt magna dolor esse in.
 
@@ -12,10 +14,10 @@ Eu qui sunt minim irure officia minim. Commodo laboris tempor nulla consectetur.
 
 Mollit mollit aliquip consequat id consectetur reprehenderit tempor ut pariatur culpa amet ad. Quis et Lorem tempor mollit mollit reprehenderit ut Lorem labore commodo in culpa deserunt. Ad Lorem ut occaecat aliqua sit nulla aliquip amet esse fugiat adipisicing nulla labore. Esse labore mollit ut ullamco culpa duis do ut.
 
-# C'est moi
+# It's me
 
-## Ah bon?
+## Hum?
 
 ## Really?
 
-# Oui, c'est vraiment moi!
+# Yeah, it's really me!

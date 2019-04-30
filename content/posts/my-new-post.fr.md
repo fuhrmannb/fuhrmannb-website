@@ -1,7 +1,9 @@
 ---
-title: "Start post"
+title: "Mon premier post"
 date: 2018-12-14T19:14:38+01:00
 description: "Un exemple de post pour tester mon blog :)"
+categories: ["development", "speedrun"]
+tags: ["csharp", "speedrun", "livesplit"]
 ---
 
 # Coucou

@@ -1,17 +1,21 @@
 languageCode = "en-us"
-theme = "hyde-hyde"
 defaultContentLanguage = "en"
+theme = "hyde-hyde"
+
+title = "SpeedCode"
 baseURL = "https://fuhrmannb.me/"
 enableRobotsTXT = true
 
 [params]
     author = "Benjamin FÜHRMANN"
     authorimage = "/img/fuhrmannb.jpg"
-
     copyright = "fuhrmannb"
     license = "CC BY-SA 4.0"
     licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"
+
     showBuiltWith = true
+    showpagemeta = true
+
     UtterancesRepo = "fuhrmannb/fuhrmannb-utterances"
     UtterancesIssueTerm = "pathname"
     UtterancesTheme = "github-light"
@@ -19,9 +23,8 @@ enableRobotsTXT = true
 [languages]
     [languages.en]
         languageName = "English"
-        title = "What a code!"
         [languages.en.params]
-            description = "Jumble and other fun stuff I want to share"
+            description = "A place where we take some time to code fast"
         [[languages.en.menu.main]]
             name = "About"
             identifier = "about"
@@ -40,9 +43,8 @@ enableRobotsTXT = true
 
     [languages.fr]
         languageName = "Français"
-        title = "Quel code!"
         [languages.fr.params]
-            description = "Bric-à-brac et autres trucs cools que j'ai envie de partager"
+            description = "Un endroit où on prend le temps de coder vite"
         [[languages.fr.menu.main]]
             name = "À propos"
             identifier = "about"
