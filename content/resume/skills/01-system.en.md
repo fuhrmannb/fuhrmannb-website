@@ -4,23 +4,21 @@ title: System and Cloud
 skills:
 - name: Linux
   score: 4
-  details: Systemd
+  details: Debian, CoreOS
 - name: Containers
   score: 3
   details: Docker, rkt
 - name: Kubernetes
   score: 3
-- name: Ceph
-  score: 3
 - name: Openstack
   score: 3
-- name: Puppet
+  details: QEMU/KVM
+- name: Ceph
   score: 3
-- name: System services
+- name: Automation
   score: 3
-  details: DNS, DHCP, TFTP, LDAP
-- name: Ansible
+  details: Puppet, Ansible
+- name: Scripting
   score: 2
-- name: Bash
-  score: 2
+  details: Python, Bash
 ---

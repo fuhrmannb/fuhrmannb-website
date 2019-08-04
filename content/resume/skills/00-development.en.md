@@ -15,13 +15,12 @@ skills:
   score: 2
 - name: C#
   score: 2
-- name: HTML/CSS
+- name: Web
   score: 2
+  details: HTML, CSS, JS
 - name: 3D Engines
   score: 2
   details: Unity, Unreal
-- name: Javascript
-  score: 1
 - name: Ruby
   score: 1
   details: RSpec

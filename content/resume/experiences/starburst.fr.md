@@ -6,6 +6,6 @@ dateStart: 2017
 dateEnd: 2018
 icon: /resume/experiences/starburst.svg
 ---
-* Un des initateurs du projet et associés de l’entreprise
-* Architecture et développement d’une solution pour permettre la création d’expériences multi-appareils immersives dans le jeu-vidéo
-* Technologies : Golang, gRPC, Protobuf, C/C++, Unity3D
+* Un des initiateurs du projet en 2014 et associés de l’entreprise
+* Architecture et développement d’une solution pour permettre la création d’expériences multi-appareils immersives dans le jeu-vidéo au sein d'un réseau local
+* Technologies : Golang, C|C++, C#, gRPC, Protobuf, ZeroMQ, Unity3D, Unreal

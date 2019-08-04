@@ -24,7 +24,7 @@ enableRobotsTXT = true
     [languages.en]
         languageName = "English"
         [languages.en.params]
-            description = "A place where we take some time to code fast"
+            description = "A place where we take the time to code fast"
         [[languages.en.menu.main]]
             name = "About"
             identifier = "about"

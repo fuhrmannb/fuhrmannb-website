@@ -1,7 +1,7 @@
 ---
 type: hobby
 title: Sports
-icon: /resume/hobbies/sport.svg
+icon: /resume/hobbies/badminton.svg
 ---
 * Badminton
 * Cycling
